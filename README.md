@@ -1,9 +1,10 @@
-# README
+# Pensieve
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An app which is designed to help users save for their retirement.
 
-Things you may want to cover:
+Built in Ruby, using Ruby-on-Rails.
+
+<!-- Things you may want to cover:
 
 * Ruby version
 
@@ -21,4 +22,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... -->
