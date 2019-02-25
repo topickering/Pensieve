@@ -2,3 +2,4 @@
 <p>Let's think about saving for your retirement, so you can enjoy life after work!</p>
 <h3>If you are an existing user, then <a href=<%= new_user_session_path %>>log-in</a></h3>
 <h3>Otherwise, <a href=<%= new_user_registration_path %>>sign-up</a> and we can get saving</h3>
+<h3>Or, <a <%= link_to "Sign out", destroy_user_session_path, method: :delete %></a>.</h3>
